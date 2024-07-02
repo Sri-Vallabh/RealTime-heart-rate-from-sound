@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HeartRate", "HeartRate\HeartRate.vbproj", "{0EF40D82-7260-4FE8-997B-6464A727A9BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF40D82-7260-4FE8-997B-6464A727A9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF40D82-7260-4FE8-997B-6464A727A9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF40D82-7260-4FE8-997B-6464A727A9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF40D82-7260-4FE8-997B-6464A727A9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8657E63E-69FE-45D9-B021-4401D27FEE1B}
+	EndGlobalSection
+EndGlobal
