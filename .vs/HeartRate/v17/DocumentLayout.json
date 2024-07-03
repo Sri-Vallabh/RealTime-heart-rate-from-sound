@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0EF40D82-7260-4FE8-997B-6464A727A9BA}|HeartRate\\HeartRate.vbproj|solutionrelative:heartrate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EF40D82-7260-4FE8-997B-6464A727A9BA}|HeartRate\\HeartRate.vbproj|c:\\users\\tsriv\\documents\\heartrate\\heartrate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{0EF40D82-7260-4FE8-997B-6464A727A9BA}|HeartRate\\HeartRate.vbproj|C:\\Users\\tsriv\\Documents\\HeartRate\\heartrate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{0EF40D82-7260-4FE8-997B-6464A727A9BA}|HeartRate\\HeartRate.vbproj|solutionrelative:heartrate\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "HeartRate\\Form1.vb",
               "ToolTip": "C:\\Users\\tsriv\\Documents\\HeartRate\\HeartRate\\Form1.vb",
               "RelativeToolTip": "HeartRate\\Form1.vb",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAcwIwAAAAvAAAA",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAgwAsBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-07-02T11:21:08.87Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\tsriv\\Documents\\HeartRate\\HeartRate\\Form1.vb [Design]",
               "RelativeToolTip": "HeartRate\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-07-02T11:20:24.021Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-02T11:20:24.021Z"
             }
           ]
         }

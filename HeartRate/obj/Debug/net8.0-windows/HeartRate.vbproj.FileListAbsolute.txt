@@ -24,3 +24,5 @@ C:\Users\tsriv\Documents\HeartRate\HeartRate\obj\Debug\net8.0-windows\refint\Hea
 C:\Users\tsriv\Documents\HeartRate\HeartRate\obj\Debug\net8.0-windows\HeartRate.pdb
 C:\Users\tsriv\Documents\HeartRate\HeartRate\obj\Debug\net8.0-windows\HeartRate.genruntimeconfig.cache
 C:\Users\tsriv\Documents\HeartRate\HeartRate\obj\Debug\net8.0-windows\ref\HeartRate.dll
+C:\Users\tsriv\Documents\HeartRate\HeartRate\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\tsriv\Documents\HeartRate\HeartRate\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll

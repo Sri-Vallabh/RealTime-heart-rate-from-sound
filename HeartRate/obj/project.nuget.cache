@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5eCw288ZEzH8WEvm4CXo7r51EWgA6bQ63WEtUTr5aEhvaQgGsYxqtD0D6lcGLyAaK05Jm8xqMhRFePlhcJwTtg==",
+  "dgSpecHash": "Cegg2VvFUqugsuaxvYKDXXBQSIk2tCCUdFLzYBHjyxbFyg9tL1bio1Fj0m09zUbxPtog2B7x8AdcpNjz+erGdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\tsriv\\Documents\\HeartRate\\HeartRate\\HeartRate.vbproj",
   "expectedPackageFiles": [
@@ -14,6 +14,8 @@
     "C:\\Users\\tsriv\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
     "C:\\Users\\tsriv\\.nuget\\packages\\naudio.winforms\\2.2.1\\naudio.winforms.2.2.1.nupkg.sha512",
     "C:\\Users\\tsriv\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
+    "C:\\Users\\tsriv\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\tsriv\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512",
     "C:\\Users\\tsriv\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\tsriv\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
